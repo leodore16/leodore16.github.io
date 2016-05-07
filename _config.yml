@@ -1,0 +1,22 @@
+# Jekyll Defaults
+title: Leodore's Blog
+description: Leodore First Blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://Leodore16.github.io"
+github: https://github.com/Leodore16
+
+highlighter: rouge
+permalink: /post/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: feed.xml
+tags_path: tag.html
+navigation:
+- text: About
+  url: /about/
+- text: Archives
+  url: /archives/
+- text: Tags
+  url: /tags/
