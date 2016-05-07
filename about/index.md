@@ -1,16 +1,23 @@
 ---
 layout: default
-title: About blueface
+title: something about
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+# 欢迎来到我的技术博客
 
-> It supports blockquotes, too.
+这里是我发表自己一些观点的地方，下面简单介绍一下。
 
-## blueface on the Internet
+### 我是谁？
+我是南京的一名普通中学生，今年13岁，就读于南京外国语学校。有时研究c++，但是因为时间不够充足，只能当作兴趣爱好。
 
-* [blueface][github] on GitHub
-* [thien.io][bob], theme creator's website
+### 为什么要创建技术博客？
+原因很简单，好玩！
 
-[github]: https://github.com/tnguyen/blueface/
-[bob]: http://thien.io
+### 如何查看我的文章？
+单击ABOUT查看简介。
+单击ARCHIVES查看文章目录。
+单击TAGS查看主题，单击想看的主题自动跳出有关该主题的文章。
+单击最上方的leodore16.github.io查看所有文章。
+
+
+更多内容敬请期待！
