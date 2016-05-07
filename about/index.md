@@ -17,7 +17,7 @@ title: something about
 单击ABOUT查看简介。
 单击ARCHIVES查看文章目录。
 单击TAGS查看主题，单击想看的主题自动跳出有关该主题的文章。
-单击最上方的leodore16.github.io查看所有文章。
+单击最上方的Leodore's Blog查看所有文章。
 
 
 更多内容敬请期待！
