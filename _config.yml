@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Leodore16.github.io"
 github: https://github.com/Leodore16
 
+timezone: CN
+
 highlighter: rouge
 permalink: /post/:title/
 paginate: 4
